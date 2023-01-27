@@ -1,0 +1,1 @@
+export 'package:music_player/src/helpers/lyrics_helper.dart';

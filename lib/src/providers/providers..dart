@@ -1,0 +1,1 @@
+export 'package:music_player/src/providers/audio_player_provider.dart';
